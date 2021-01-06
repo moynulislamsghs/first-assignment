@@ -1,0 +1,132 @@
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.half_width{
+    width: 47%;
+    float: left;
+    height: 600px;
+    padding: 10px;
+
+}
+.half_width img{
+    width: 100%;
+    height: 100%;
+}
+.half_width h1{
+    font-size: 80px;
+    text-transform: uppercase;
+    margin: 0px;
+}
+.half_width h2{
+    font-size: 48px;
+    text-transform: uppercase;
+    margin: 0;
+}
+.half_width a{
+    font-size: 16px;
+    text-decoration: none;
+    background-color: #F76760;
+    color: white;
+    padding: 20px 60px;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+.half_width p{
+    font-size: 16px;
+    padding-bottom: 30px;
+    text-align: justify;
+}
+.blue{
+    color: #363958;
+}
+.tomato{
+    color: #FF8367;
+}
+.top_section{
+    margin-bottom: 100px;
+    width: 100%;
+    margin: 100px;
+}
+.second_section{
+    margin: 100px;
+    width: 100%;
+    margin-top: 250px;
+}
+.project_section{
+    width: 100%;
+    height: auto;
+    background-color: #F8F9FC;
+    overflow: hidden;
+}
+.project_section .project_section_position{
+    margin: 100px;
+}
+.project_section .project_section_position h1{
+    text-align: center;
+    font-size: 48px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.project_section .rectangle{
+    width: 29%;
+    border-radius: 10px;
+    float: left;
+    margin: 0% 2%;
+    box-shadow: 0 0 5px #000000;
+    margin-bottom: 150px;
+    margin-top: 60px;
+}
+.project_section .rectangle .rectangle_image{
+    margin: 10px auto;
+    width: 90%;
+    height: 85%;
+}
+.project_section .rectangle .rectangle_image img{
+    width: 100%;
+}
+.project_section .rectangle .rectangle_text{
+    margin: 10px auto;
+    padding: 15px 30px;
+}
+.project_section .rectangle .rectangle_text h3{
+    font-size: 24px;
+    font-weight: bold;
+}
+.project_section .rectangle .rectangle_text p{
+    font-size: 16px;
+}
+.bottom_section{
+    margin: 150px auto;
+    height: 300px;
+    width: 75%;
+    background-image: url(images/Group_33094_1.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.work_inquary{
+    float: left;
+
+}
+.work_inquary h1{
+    font-size: 64px;
+    color: white;
+    text-transform: uppercase;
+    padding: 60px 120px;
+}
+.work_inquary a{
+    text-align: right;
+}
+.bottom_button{
+    float: right;
+    margin: 140px 300px;
+}
+.bottom_button a{
+    font-size: 16px;
+    text-decoration: none;
+    background-color: #F76760;
+    color: white;
+    padding: 30px 60px;
+    border-radius: 5px;
+}
